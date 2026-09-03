@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="150" viewBox="0 0 560 150" fill="none">
+  <style>
+    .header { font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .lang-text { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+    .lang-pct { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; }
+  </style>
+  <rect x="0.5" y="0.5" width="559" height="149" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="32" class="header">TOP LANGUAGES (BY REPO BYTES)</text>
+  
+  <!-- Bar -->
+  <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
+  <rect x="24.0" y="50" width="177.2" height="10" rx="2" fill="#3178c6"/><rect x="201.2" y="50" width="137.8" height="10" rx="2" fill="#3572A5"/><rect x="339.1" y="50" width="93.5" height="10" rx="2" fill="#f1e05a"/><rect x="432.6" y="50" width="59.1" height="10" rx="2" fill="#e34c26"/><rect x="491.7" y="50" width="44.3" height="10" rx="2" fill="#563d7c"/>
+
+  <!-- Legend -->
+  
+        <circle cx="28" cy="81" r="4" fill="#3178c6"/>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">34.6%</tspan></text>
+        
+        <circle cx="203" cy="81" r="4" fill="#3572A5"/>
+        <text x="215" y="85" class="lang-text">Python <tspan class="lang-pct">26.9%</tspan></text>
+        
+        <circle cx="378" cy="81" r="4" fill="#f1e05a"/>
+        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">18.3%</tspan></text>
+        
+        <circle cx="28" cy="107" r="4" fill="#e34c26"/>
+        <text x="40" y="111" class="lang-text">HTML <tspan class="lang-pct">11.5%</tspan></text>
+        
+        <circle cx="203" cy="107" r="4" fill="#563d7c"/>
+        <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">8.7%</tspan></text>
+        
+</svg>
