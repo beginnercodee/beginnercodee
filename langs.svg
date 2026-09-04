@@ -9,23 +9,26 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="177.2" height="10" rx="2" fill="#3178c6"/><rect x="201.2" y="50" width="137.8" height="10" rx="2" fill="#3572A5"/><rect x="339.1" y="50" width="93.5" height="10" rx="2" fill="#f1e05a"/><rect x="432.6" y="50" width="59.1" height="10" rx="2" fill="#e34c26"/><rect x="491.7" y="50" width="44.3" height="10" rx="2" fill="#563d7c"/>
+  <rect x="24.0" y="50" width="229.9" height="10" rx="2" fill="#3178c6"/><rect x="253.9" y="50" width="90.4" height="10" rx="2" fill="#e34c26"/><rect x="344.2" y="50" width="78.4" height="10" rx="2" fill="#f1e05a"/><rect x="422.7" y="50" width="52.0" height="10" rx="2" fill="#DA5B0B"/><rect x="474.7" y="50" width="42.8" height="10" rx="2" fill="#663399"/><rect x="517.4" y="50" width="11.0" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
         <circle cx="28" cy="81" r="4" fill="#3178c6"/>
-        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">34.6%</tspan></text>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">44.9%</tspan></text>
         
-        <circle cx="203" cy="81" r="4" fill="#3572A5"/>
-        <text x="215" y="85" class="lang-text">Python <tspan class="lang-pct">26.9%</tspan></text>
+        <circle cx="203" cy="81" r="4" fill="#e34c26"/>
+        <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">17.7%</tspan></text>
         
         <circle cx="378" cy="81" r="4" fill="#f1e05a"/>
-        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">18.3%</tspan></text>
+        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">15.3%</tspan></text>
         
-        <circle cx="28" cy="107" r="4" fill="#e34c26"/>
-        <text x="40" y="111" class="lang-text">HTML <tspan class="lang-pct">11.5%</tspan></text>
+        <circle cx="28" cy="107" r="4" fill="#DA5B0B"/>
+        <text x="40" y="111" class="lang-text">Jupyter Notebook <tspan class="lang-pct">10.2%</tspan></text>
         
-        <circle cx="203" cy="107" r="4" fill="#563d7c"/>
-        <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">8.7%</tspan></text>
+        <circle cx="203" cy="107" r="4" fill="#663399"/>
+        <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">8.4%</tspan></text>
+        
+        <circle cx="378" cy="107" r="4" fill="#3572A5"/>
+        <text x="390" y="111" class="lang-text">Python <tspan class="lang-pct">2.2%</tspan></text>
         
 </svg>
