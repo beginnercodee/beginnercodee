@@ -10,13 +10,13 @@
   <text x="24" y="32" class="header">✦ ANNUAL CONTRIBUTIONS &amp; ACTIVITY</text>
   
   <!-- Metrics -->
-  <text x="24" y="66" class="num">495</text>
+  <text x="24" y="66" class="num">483</text>
   <text x="24" y="84" class="label">Total in past year</text>
 
-  <text x="175" y="66" class="num">430</text>
+  <text x="175" y="66" class="num">425</text>
   <text x="175" y="84" class="label">Commits</text>
 
-  <text x="295" y="66" class="num">18</text>
+  <text x="295" y="66" class="num">16</text>
   <text x="295" y="84" class="label">Pull Requests</text>
 
   <text x="420" y="66" class="num">1</text>
