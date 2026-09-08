@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Jamal Nadeem (`@beginnercodee`)
+# 💫 Jamal Nadeem (`@beginnercodee`) 
 
 > **Computer Science Student & Automation Specialist**  
 > Building high-impact web apps, AI integrations, and scalable business automation workflows.
