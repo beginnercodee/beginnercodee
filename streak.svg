@@ -10,8 +10,8 @@
   <!-- Current Streak -->
   <g transform="translate(24, 26)">
     <text x="0" y="0" class="header">🔥 CURRENT STREAK</text>
-    <text x="0" y="34" class="num">15 <tspan font-size="15" fill="#8b949e" font-weight="normal">days</tspan></text>
-    <text x="0" y="55" class="label">Aug 25 - Sep 08</text>
+    <text x="0" y="34" class="num">16 <tspan font-size="15" fill="#8b949e" font-weight="normal">days</tspan></text>
+    <text x="0" y="55" class="label">Aug 25 - Sep 09</text>
   </g>
 
   <!-- Divider -->
