@@ -9,12 +9,12 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="230.6" height="10" rx="2" fill="#3178c6"/><rect x="254.6" y="50" width="90.2" height="10" rx="2" fill="#e34c26"/><rect x="344.8" y="50" width="78.2" height="10" rx="2" fill="#f1e05a"/><rect x="423.0" y="50" width="51.9" height="10" rx="2" fill="#DA5B0B"/><rect x="474.8" y="50" width="42.7" height="10" rx="2" fill="#663399"/><rect x="517.5" y="50" width="11.0" height="10" rx="2" fill="#3572A5"/>
+  <rect x="24.0" y="50" width="230.9" height="10" rx="2" fill="#3178c6"/><rect x="254.9" y="50" width="90.1" height="10" rx="2" fill="#e34c26"/><rect x="345.0" y="50" width="78.1" height="10" rx="2" fill="#f1e05a"/><rect x="423.1" y="50" width="51.8" height="10" rx="2" fill="#DA5B0B"/><rect x="474.9" y="50" width="42.6" height="10" rx="2" fill="#663399"/><rect x="517.5" y="50" width="11.0" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
         <circle cx="28" cy="81" r="4" fill="#3178c6"/>
-        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">45.0%</tspan></text>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">45.1%</tspan></text>
         
         <circle cx="203" cy="81" r="4" fill="#e34c26"/>
         <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">17.6%</tspan></text>
@@ -29,6 +29,6 @@
         <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">8.3%</tspan></text>
         
         <circle cx="378" cy="107" r="4" fill="#3572A5"/>
-        <text x="390" y="111" class="lang-text">Python <tspan class="lang-pct">2.2%</tspan></text>
+        <text x="390" y="111" class="lang-text">Python <tspan class="lang-pct">2.1%</tspan></text>
         
 </svg>
