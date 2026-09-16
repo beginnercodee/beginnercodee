@@ -9,7 +9,7 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="230.9" height="10" rx="2" fill="#3178c6"/><rect x="254.9" y="50" width="90.1" height="10" rx="2" fill="#e34c26"/><rect x="345.0" y="50" width="78.1" height="10" rx="2" fill="#f1e05a"/><rect x="423.1" y="50" width="51.8" height="10" rx="2" fill="#DA5B0B"/><rect x="474.9" y="50" width="42.6" height="10" rx="2" fill="#663399"/><rect x="517.5" y="50" width="11.0" height="10" rx="2" fill="#3572A5"/>
+  <rect x="24.0" y="50" width="231.0" height="10" rx="2" fill="#3178c6"/><rect x="255.0" y="50" width="90.0" height="10" rx="2" fill="#e34c26"/><rect x="345.0" y="50" width="78.1" height="10" rx="2" fill="#f1e05a"/><rect x="423.1" y="50" width="51.8" height="10" rx="2" fill="#DA5B0B"/><rect x="474.9" y="50" width="42.6" height="10" rx="2" fill="#663399"/><rect x="517.5" y="50" width="11.0" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
