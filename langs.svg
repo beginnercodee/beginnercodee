@@ -9,21 +9,21 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="235.2" height="10" rx="2" fill="#3178c6"/><rect x="259.2" y="50" width="88.6" height="10" rx="2" fill="#e34c26"/><rect x="347.8" y="50" width="77.1" height="10" rx="2" fill="#f1e05a"/><rect x="424.9" y="50" width="51.0" height="10" rx="2" fill="#DA5B0B"/><rect x="475.9" y="50" width="41.9" height="10" rx="2" fill="#663399"/><rect x="517.8" y="50" width="10.8" height="10" rx="2" fill="#3572A5"/>
+  <rect x="24.0" y="50" width="236.5" height="10" rx="2" fill="#3178c6"/><rect x="260.5" y="50" width="88.2" height="10" rx="2" fill="#e34c26"/><rect x="348.7" y="50" width="76.7" height="10" rx="2" fill="#f1e05a"/><rect x="425.4" y="50" width="50.8" height="10" rx="2" fill="#DA5B0B"/><rect x="476.2" y="50" width="41.7" height="10" rx="2" fill="#663399"/><rect x="517.9" y="50" width="10.8" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
         <circle cx="28" cy="81" r="4" fill="#3178c6"/>
-        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">45.9%</tspan></text>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">46.2%</tspan></text>
         
         <circle cx="203" cy="81" r="4" fill="#e34c26"/>
-        <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">17.3%</tspan></text>
+        <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">17.2%</tspan></text>
         
         <circle cx="378" cy="81" r="4" fill="#f1e05a"/>
-        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">15.1%</tspan></text>
+        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">15.0%</tspan></text>
         
         <circle cx="28" cy="107" r="4" fill="#DA5B0B"/>
-        <text x="40" y="111" class="lang-text">Jupyter Notebook <tspan class="lang-pct">10.0%</tspan></text>
+        <text x="40" y="111" class="lang-text">Jupyter Notebook <tspan class="lang-pct">9.9%</tspan></text>
         
         <circle cx="203" cy="107" r="4" fill="#663399"/>
         <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">8.2%</tspan></text>
