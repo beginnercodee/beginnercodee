@@ -9,12 +9,12 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="237.2" height="10" rx="2" fill="#3178c6"/><rect x="261.2" y="50" width="88.0" height="10" rx="2" fill="#e34c26"/><rect x="349.2" y="50" width="76.5" height="10" rx="2" fill="#f1e05a"/><rect x="425.7" y="50" width="50.6" height="10" rx="2" fill="#DA5B0B"/><rect x="476.3" y="50" width="41.6" height="10" rx="2" fill="#663399"/><rect x="517.9" y="50" width="10.7" height="10" rx="2" fill="#3572A5"/>
+  <rect x="24.0" y="50" width="237.3" height="10" rx="2" fill="#3178c6"/><rect x="261.3" y="50" width="87.9" height="10" rx="2" fill="#e34c26"/><rect x="349.3" y="50" width="76.5" height="10" rx="2" fill="#f1e05a"/><rect x="425.7" y="50" width="50.6" height="10" rx="2" fill="#DA5B0B"/><rect x="476.3" y="50" width="41.6" height="10" rx="2" fill="#663399"/><rect x="518.0" y="50" width="10.7" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
         <circle cx="28" cy="81" r="4" fill="#3178c6"/>
-        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">46.3%</tspan></text>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">46.4%</tspan></text>
         
         <circle cx="203" cy="81" r="4" fill="#e34c26"/>
         <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">17.2%</tspan></text>
