@@ -10,8 +10,8 @@
   <!-- Current Streak -->
   <g transform="translate(24, 26)">
     <text x="0" y="0" class="header">🔥 CURRENT STREAK</text>
-    <text x="0" y="34" class="num">37 <tspan font-size="15" fill="#8b949e" font-weight="normal">days</tspan></text>
-    <text x="0" y="55" class="label">Aug 25 - Sep 30</text>
+    <text x="0" y="34" class="num">38 <tspan font-size="15" fill="#8b949e" font-weight="normal">days</tspan></text>
+    <text x="0" y="55" class="label">Aug 25 - Oct 01</text>
   </g>
 
   <!-- Divider -->
@@ -20,7 +20,7 @@
   <!-- Longest Streak -->
   <g transform="translate(304, 26)">
     <text x="0" y="0" class="header" fill="#d29922">⚡ LONGEST STREAK</text>
-    <text x="0" y="34" class="num">37 <tspan font-size="15" fill="#8b949e" font-weight="normal">days</tspan></text>
-    <text x="0" y="55" class="label">Aug 25, 2026 - Sep 30, 2026</text>
+    <text x="0" y="34" class="num">38 <tspan font-size="15" fill="#8b949e" font-weight="normal">days</tspan></text>
+    <text x="0" y="55" class="label">Aug 25, 2026 - Oct 01, 2026</text>
   </g>
 </svg>
