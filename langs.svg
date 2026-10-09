@@ -9,18 +9,18 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="245.2" height="10" rx="2" fill="#3178c6"/><rect x="269.2" y="50" width="85.4" height="10" rx="2" fill="#e34c26"/><rect x="354.6" y="50" width="74.3" height="10" rx="2" fill="#f1e05a"/><rect x="428.9" y="50" width="49.2" height="10" rx="2" fill="#DA5B0B"/><rect x="478.0" y="50" width="40.4" height="10" rx="2" fill="#663399"/><rect x="518.5" y="50" width="10.4" height="10" rx="2" fill="#3572A5"/>
+  <rect x="24.0" y="50" width="246.4" height="10" rx="2" fill="#3178c6"/><rect x="270.4" y="50" width="85.0" height="10" rx="2" fill="#e34c26"/><rect x="355.4" y="50" width="74.0" height="10" rx="2" fill="#f1e05a"/><rect x="429.4" y="50" width="48.9" height="10" rx="2" fill="#DA5B0B"/><rect x="478.3" y="50" width="40.2" height="10" rx="2" fill="#663399"/><rect x="518.5" y="50" width="10.4" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
         <circle cx="28" cy="81" r="4" fill="#3178c6"/>
-        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">47.9%</tspan></text>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">48.1%</tspan></text>
         
         <circle cx="203" cy="81" r="4" fill="#e34c26"/>
-        <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">16.7%</tspan></text>
+        <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">16.6%</tspan></text>
         
         <circle cx="378" cy="81" r="4" fill="#f1e05a"/>
-        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">14.5%</tspan></text>
+        <text x="390" y="85" class="lang-text">JavaScript <tspan class="lang-pct">14.4%</tspan></text>
         
         <circle cx="28" cy="107" r="4" fill="#DA5B0B"/>
         <text x="40" y="111" class="lang-text">Jupyter Notebook <tspan class="lang-pct">9.6%</tspan></text>
