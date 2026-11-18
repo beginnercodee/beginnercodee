@@ -14,7 +14,7 @@
   <!-- Legend -->
   
         <circle cx="28" cy="81" r="4" fill="#3178c6"/>
-        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">48.6%</tspan></text>
+        <text x="40" y="85" class="lang-text">TypeScript <tspan class="lang-pct">48.7%</tspan></text>
         
         <circle cx="203" cy="81" r="4" fill="#e34c26"/>
         <text x="215" y="85" class="lang-text">HTML <tspan class="lang-pct">16.4%</tspan></text>
