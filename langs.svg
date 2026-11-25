@@ -9,7 +9,7 @@
   
   <!-- Bar -->
   <rect x="24" y="50" width="512" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="50" width="250.0" height="10" rx="2" fill="#3178c6"/><rect x="274.0" y="50" width="83.9" height="10" rx="2" fill="#e34c26"/><rect x="357.9" y="50" width="72.9" height="10" rx="2" fill="#f1e05a"/><rect x="430.8" y="50" width="48.3" height="10" rx="2" fill="#DA5B0B"/><rect x="479.1" y="50" width="39.7" height="10" rx="2" fill="#663399"/><rect x="518.8" y="50" width="10.2" height="10" rx="2" fill="#3572A5"/>
+  <rect x="24.0" y="50" width="250.1" height="10" rx="2" fill="#3178c6"/><rect x="274.1" y="50" width="83.9" height="10" rx="2" fill="#e34c26"/><rect x="357.9" y="50" width="72.9" height="10" rx="2" fill="#f1e05a"/><rect x="430.9" y="50" width="48.3" height="10" rx="2" fill="#DA5B0B"/><rect x="479.1" y="50" width="39.7" height="10" rx="2" fill="#663399"/><rect x="518.8" y="50" width="10.2" height="10" rx="2" fill="#3572A5"/>
 
   <!-- Legend -->
   
@@ -26,7 +26,7 @@
         <text x="40" y="111" class="lang-text">Jupyter Notebook <tspan class="lang-pct">9.4%</tspan></text>
         
         <circle cx="203" cy="107" r="4" fill="#663399"/>
-        <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">7.8%</tspan></text>
+        <text x="215" y="111" class="lang-text">CSS <tspan class="lang-pct">7.7%</tspan></text>
         
         <circle cx="378" cy="107" r="4" fill="#3572A5"/>
         <text x="390" y="111" class="lang-text">Python <tspan class="lang-pct">2.0%</tspan></text>
